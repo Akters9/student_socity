@@ -1,0 +1,19 @@
+In HOME, ABOUT,SOCIETIES AND CONTACT.- I want a paragraph in Home key, which I'll explain. 
+You just need to put anything lorem.
+So whenever we press on home, it will redirect to the paragraph/ whatever I write.
+
+I want to make the footer different that looks like I made the whole thing. 
+Please change the codes by the way you want so that it will not copyright. 
+
+In footer I want to use  start/installation /news or whatever
+ as a link which will bring us to any news or whatever we put. But I want to add url/.
+
+You can put any url link and I'll change them into what I want.
+
+Finally and most importantly I must give her a link for
+ my website that she can go Through and check from google or whatever.
+  I mean wee need to host it. So please Don't forget to make the url.. It's important.  
+
+For footer u Don't need to put link to all of them..
+just put one or two to show me how to do and I'll do the rest. For header as well.  
+You can do 1-2, I'll do the rest. I Don't want to put YOU in trouble.
